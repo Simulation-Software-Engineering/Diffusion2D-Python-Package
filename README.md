@@ -14,6 +14,8 @@ The code used in this exercise is based on [Chapter 7 of the book "Learning Scie
 
 ### Required dependencies
 
+matplotlib and numpy
+
 ## Running this package
 
 ## Citing
