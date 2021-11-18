@@ -1,0 +1,10 @@
+README.md
+setup.py
+src/strackardiffusion2D/__init__.py
+src/strackardiffusion2D/diffusion2d.py
+src/strackardiffusion2D/output.py
+src/strackardiffusion2D.egg-info/PKG-INFO
+src/strackardiffusion2D.egg-info/SOURCES.txt
+src/strackardiffusion2D.egg-info/dependency_links.txt
+src/strackardiffusion2D.egg-info/requires.txt
+src/strackardiffusion2D.egg-info/top_level.txt
