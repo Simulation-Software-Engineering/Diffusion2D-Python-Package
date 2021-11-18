@@ -12,9 +12,9 @@ This code solves the diffusion equation in 2D over a square domain which is at a
 ## Installing the package
 
 ### Using pip3 to install from PyPI
-
+pip install -i https://test.pypi.org/simple/ strackardiffusion2D==0.0.3
 ### Required dependencies
-
+numpy, matplotlib
 ## Running this package
 
 ## Citing
