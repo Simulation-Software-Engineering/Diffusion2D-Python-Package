@@ -3,7 +3,7 @@ import setuptools
 
 setup(
     name="strackardiffusion2D",
-    version="0.0.2",
+    version="0.0.3",
     author="Alexander Strack",
     description="diffusion computation in 2D",
     url="https://github.com/Simulation-Software-Engineering/Diffusion2D-Python-Package",
