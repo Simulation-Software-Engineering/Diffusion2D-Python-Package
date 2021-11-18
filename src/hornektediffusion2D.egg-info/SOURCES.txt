@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+src/hornektediffusion2D/__init__.py
+src/hornektediffusion2D/diffusion2d.py
+src/hornektediffusion2D/output.py
+src/hornektediffusion2D.egg-info/PKG-INFO
+src/hornektediffusion2D.egg-info/SOURCES.txt
+src/hornektediffusion2D.egg-info/dependency_links.txt
+src/hornektediffusion2D.egg-info/requires.txt
+src/hornektediffusion2D.egg-info/top_level.txt
