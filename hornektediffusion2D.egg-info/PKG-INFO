@@ -1,0 +1,34 @@
+Metadata-Version: 2.1
+Name: hornektediffusion2D
+Version: 0.0.3
+Summary: simple package for diffusion computation
+Home-page: https://github.com/Simulation-Software-Engineering/Diffusion2D-Python-Package
+Author: Timothée Hornek
+License: UNKNOWN
+Description: # Diffusion2D-Python-Package
+        
+        ## Instructions for students
+        
+        Please follow the instructions in [exercise_python_packaging_text.md](https://github.com/Simulation-Software-Engineering/Lecture-Material/blob/main/building-and-packaging/material/exercise_python_packaging_text.md).
+        
+        The code used in this exercise is based on [Chapter 7 of the book "Learning Scientific Programming with Python"](https://scipython.com/book/chapter-7-matplotlib/examples/the-two-dimensional-diffusion-equation/).
+        
+        ## Project description
+        
+        ## Installing the package
+        
+        ### Using pip3 to install from PyPI
+        
+        ### Required dependencies
+        
+        matplotlib and numpy
+        
+        ## Running this package
+        
+        ## Citing
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
