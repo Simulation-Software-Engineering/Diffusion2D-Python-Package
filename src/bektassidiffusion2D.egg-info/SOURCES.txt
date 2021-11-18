@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+src/bektassidiffusion2D/__init__.py
+src/bektassidiffusion2D/diffusion2d.py
+src/bektassidiffusion2D/output.py
+src/bektassidiffusion2D.egg-info/PKG-INFO
+src/bektassidiffusion2D.egg-info/SOURCES.txt
+src/bektassidiffusion2D.egg-info/dependency_links.txt
+src/bektassidiffusion2D.egg-info/top_level.txt
