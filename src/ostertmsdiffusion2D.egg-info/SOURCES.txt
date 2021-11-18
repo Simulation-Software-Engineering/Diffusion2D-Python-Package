@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+src/ostertmsdiffusion2D/__init__.py
+src/ostertmsdiffusion2D/ostertmsdiffusion2D.py
+src/ostertmsdiffusion2D/output.py
+src/ostertmsdiffusion2D.egg-info/PKG-INFO
+src/ostertmsdiffusion2D.egg-info/SOURCES.txt
+src/ostertmsdiffusion2D.egg-info/dependency_links.txt
+src/ostertmsdiffusion2D.egg-info/requires.txt
+src/ostertmsdiffusion2D.egg-info/top_level.txt

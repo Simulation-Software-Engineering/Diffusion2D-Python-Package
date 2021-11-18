@@ -1,0 +1,1 @@
+from .ostertmsdiffusion2D import solve
