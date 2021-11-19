@@ -1,0 +1,12 @@
+Metadata-Version: 1.2
+Name: chinhalidiffusion2D
+Version: 0.0.1
+Summary: A 2D diffusion solver
+Home-page: https://github.com/chlai1012/Diffusion2D-Python-Package.git
+Author: Chin-Han Lai
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Operating System :: Microsoft :: Windows
+Requires-Python: >=3.6
