@@ -1,3 +1,18 @@
+Metadata-Version: 2.1
+Name: haagjndiffusion2D
+Version: 0.0.4
+Summary: A 2D diffusion equation solver
+Home-page: https://github.com/jonahaag/Diffusion2D-Python-Package
+Author: Jonathan Haag
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
 # Diffusion2D-Python-Package
 
 ## Project description
@@ -39,3 +54,4 @@ diffusion2d.solve()
 ## Citing
 
 This code is based on [Chapter 7 of the book "Learning Scientific Programming with Python](https://scipython.com/book/chapter-7-matplotlib/examples/the-two-dimensional-diffusion-equation/).
+

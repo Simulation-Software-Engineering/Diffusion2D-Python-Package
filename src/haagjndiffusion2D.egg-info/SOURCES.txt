@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+src/haagjndiffusion2D/__init__.py
+src/haagjndiffusion2D/diffusion2d.py
+src/haagjndiffusion2D/output.py
+src/haagjndiffusion2D.egg-info/PKG-INFO
+src/haagjndiffusion2D.egg-info/SOURCES.txt
+src/haagjndiffusion2D.egg-info/dependency_links.txt
+src/haagjndiffusion2D.egg-info/requires.txt
+src/haagjndiffusion2D.egg-info/top_level.txt
