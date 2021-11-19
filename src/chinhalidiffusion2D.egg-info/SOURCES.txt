@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+src/chinhalidiffusion2D/__init__.py
+src/chinhalidiffusion2D/diffusion2d.py
+src/chinhalidiffusion2D/output.py
+src/chinhalidiffusion2D.egg-info/PKG-INFO
+src/chinhalidiffusion2D.egg-info/SOURCES.txt
+src/chinhalidiffusion2D.egg-info/dependency_links.txt
+src/chinhalidiffusion2D.egg-info/requires.txt
+src/chinhalidiffusion2D.egg-info/top_level.txt

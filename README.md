@@ -8,12 +8,39 @@ The code used in this exercise is based on [Chapter 7 of the book "Learning Scie
 
 ## Project description
 
+This code solves the diffusion equation in 2D over a square domain which is at a certain temperature and a circular disc at the center which is at a higher temperature. This code solves the diffusion equation using the Finite Difference Method. The thermal diffusivity and initial conditions of the system can be changed by the user. The code produces four plots at various timepoints of the simulation. The diffusion process can be clearly observed in these plots.
+
+If you are interested in the theoretical background of the code, please have a look in Chapter 7 of the book "Learning Scientific Programming with Python".
+
 ## Installing the package
 
 ### Using pip3 to install from PyPI
 
+Use 
+
+`pip3 install chinhalidiffusion2D`
+
+or 
+
+`python3 -m pip install chinhalidiffusion2D`
+
+to install.
+
 ### Required dependencies
+
+The following Python tools:
+    - Python (version >= 3)
+    - [NumPy](https://numpy.org/)
+    - [Matplotlib](https://matplotlib.org/)
 
 ## Running this package
 
+```
+from chinhalidiffusion2D import diffusion2d
+
+diffusion2d.solve()
+```
+
 ## Citing
+
+[in Chapter 7 of the book "Learning Scientific Programming with Python"](https://scipython.com/book/chapter-7-matplotlib/examples/the-two-dimensional-diffusion-equation/).
