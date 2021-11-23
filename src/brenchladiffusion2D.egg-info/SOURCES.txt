@@ -1,0 +1,15 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+versioneer.py
+src/brenchladiffusion2D/__init__.py
+src/brenchladiffusion2D/_version.py
+src/brenchladiffusion2D/diffusion2d.py
+src/brenchladiffusion2D/output.py
+src/brenchladiffusion2D.egg-info/PKG-INFO
+src/brenchladiffusion2D.egg-info/SOURCES.txt
+src/brenchladiffusion2D.egg-info/dependency_links.txt
+src/brenchladiffusion2D.egg-info/requires.txt
+src/brenchladiffusion2D.egg-info/top_level.txt

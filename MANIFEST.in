@@ -1,0 +1,2 @@
+include versioneer.py
+include src/brenchladiffusion2D/_version.py
