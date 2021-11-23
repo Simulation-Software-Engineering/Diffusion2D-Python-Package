@@ -1,0 +1,3 @@
+_version.py export-subst
+src/_version.py export-subst
+src/brenchladiffusion2D/_version.py export-subst
