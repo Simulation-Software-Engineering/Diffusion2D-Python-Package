@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: altawemddiffusion2D
+Version: 0.0.6
+Summary: A small description
+Home-page: https://github.com/Simulation-Software-Engineering/Diffusion2D-Python-Package
+Author: Mohamad Altaweel
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.6
+Requires-Python: >=3.6
