@@ -1,0 +1,10 @@
+README.md
+setup.py
+src/altawemddiffusion2D/__init__.py
+src/altawemddiffusion2D/diffusion2d.py
+src/altawemddiffusion2D/output.py
+src/altawemddiffusion2D.egg-info/PKG-INFO
+src/altawemddiffusion2D.egg-info/SOURCES.txt
+src/altawemddiffusion2D.egg-info/dependency_links.txt
+src/altawemddiffusion2D.egg-info/requires.txt
+src/altawemddiffusion2D.egg-info/top_level.txt
