@@ -1,0 +1,10 @@
+README.md
+setup.py
+src/kroenekmdiffusion2D.egg-info/PKG-INFO
+src/kroenekmdiffusion2D.egg-info/SOURCES.txt
+src/kroenekmdiffusion2D.egg-info/dependency_links.txt
+src/kroenekmdiffusion2D.egg-info/requires.txt
+src/kroenekmdiffusion2D.egg-info/top_level.txt
+src/kroenekmdiffusion2d/__init__.py
+src/kroenekmdiffusion2d/diffusion2d.py
+src/kroenekmdiffusion2d/output.py
