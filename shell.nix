@@ -16,13 +16,13 @@ in pkgs.mkShell {
   ];
 
   shellHook = ''
-    # export PYTHON_PATH="$(pwd)/.python"
-    # export PIP_PREFIX="$PYTHON_PATH/pip_packages"
-    # mkdir -pv "$PIP_PREFIX"
-    #
-    # export PYTHONPATH="$PYTHON_PATH/pip_packages/lib/python3.8/site-packages:$PYTHONPATH"
-    # export PATH="$PATH:$PIP_PREFIX/bin"
-    #
+    export PYTHON_PATH="$(pwd)/.python"
+    export PIP_PREFIX="$PYTHON_PATH/pip_packages"
+    mkdir -pv "$PIP_PREFIX"
+
+    export PYTHONPATH="$PYTHON_PATH/pip_packages/lib/python3.8/site-packages:$PYTHONPATH"
+    export PATH="$PATH:$PIP_PREFIX/bin"
+
     # pip install numpy
     # pip install matplotlib
     # autoPatchelf $PYTHON_PATH
