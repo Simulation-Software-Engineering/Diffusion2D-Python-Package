@@ -1,0 +1,5 @@
+pip
+build
+Twine
+NumPy
+Matplotlib

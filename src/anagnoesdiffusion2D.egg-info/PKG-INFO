@@ -1,3 +1,18 @@
+Metadata-Version: 2.1
+Name: anagnoesdiffusion2D
+Version: 0.0.2
+Summary: A small description
+Home-page: https://github.com/Simulation-Software-Engineering/Diffusion2D-Python-Package
+Author: anagnoes
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.9
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
 # Diffusion2D-Python-Package
 
 ## Instructions for students
@@ -12,13 +27,11 @@ This code solves the diffusion equation in 2D over a square domain which is at a
 ## Installing the package
 
 ### Using pip3 to install from PyPI
-Run following command to install the package:\
-**'pip install -i https://test.pypi.org/simple/ anagnoesdiffusion2D==0.0.2'**
 
 ### Required dependencies
-- Python >=3.6
-- NumPy
-- Matplotlib
+
 ## Running this package
 
 ## Citing
+
+

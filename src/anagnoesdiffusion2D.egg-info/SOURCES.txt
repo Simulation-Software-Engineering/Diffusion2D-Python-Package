@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.py
+src/anagnoesdiffusion2D/__init__.py
+src/anagnoesdiffusion2D/diffusion2d.py
+src/anagnoesdiffusion2D/output.py
+src/anagnoesdiffusion2D/solver.py
+src/anagnoesdiffusion2D.egg-info/PKG-INFO
+src/anagnoesdiffusion2D.egg-info/SOURCES.txt
+src/anagnoesdiffusion2D.egg-info/dependency_links.txt
+src/anagnoesdiffusion2D.egg-info/requires.txt
+src/anagnoesdiffusion2D.egg-info/top_level.txt
