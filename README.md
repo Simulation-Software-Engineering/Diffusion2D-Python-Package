@@ -32,8 +32,8 @@ pip3 install kroenekmdiffusion2D
 To start the simulation run 
 
 ```
-from kreoenekmdiffusion2d import diffusion2d
-diffusion2d.solve() # here we can use our own parameters
+from kroenekmdiffusion2d import diffusion2d
+diffusion2d.solve()
 ```
 
 ## Citing
