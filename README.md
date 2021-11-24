@@ -1,5 +1,7 @@
 # Diffusion2D-Python-Package
 
+![Diffusion Image](./diffusion.png)
+
 ## Project description
 
 This code solves the diffusion equation in 2D over a square domain which is at a certain temperature and a circular disc at the center which is at a higher temperature.
