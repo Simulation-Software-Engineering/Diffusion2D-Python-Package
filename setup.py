@@ -6,7 +6,7 @@ with open('README.md') as readme:
 
 setup(
     name="hauschmxdiffusion2D",
-    version="0.0.1",
+    version="0.0.2",
     author="Max Hausch",
     description="Diffusion simulation",
     long_description=long_description,
