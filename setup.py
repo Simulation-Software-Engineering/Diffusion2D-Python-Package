@@ -17,8 +17,8 @@ setup(
     python_requires=">=3.8",
     install_requires=["matplotlib", "numpy"],
     classifiers=[
-        "Programming Language :: Python :: 3.8.11",
-        "License :: OSI Approved :: CC BY 4.0",
-        "Operating System :: Linux",
+        "Programming Language :: Python :: 3.8",
+        "License :: OSI Approved :: Common Public License",
+        "Operating System :: Unix",
     ],
 )
